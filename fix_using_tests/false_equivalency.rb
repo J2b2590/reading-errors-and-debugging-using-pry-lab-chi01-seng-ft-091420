@@ -18,8 +18,8 @@ def selection(num)
   elsif num = 1
      "HAM HAM HAM IN MY TUMMY"
   end
-  binding.pry
-  puts "Hello World"
+  # binding.pry
+  # puts "Hello World"
 end
 
 def runner
