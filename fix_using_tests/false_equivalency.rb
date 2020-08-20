@@ -18,9 +18,8 @@ def selection(num)
   # binding.pry
   elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
-     binding.pry
-
   end
+  binding.pry
   puts "hello"
 
 end
