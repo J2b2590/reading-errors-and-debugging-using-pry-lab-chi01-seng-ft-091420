@@ -15,5 +15,3 @@ def snake_it_up(string)
   end
 
 end
-
-
