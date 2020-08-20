@@ -1,4 +1,4 @@
-# don't forget to add: 
+# don't forget to add:
 require 'pry'
 
 def generate_star_date
@@ -11,7 +11,7 @@ def state_log(star_date)
 end
 
 def engage
-  
+
   puts state_log(date)
   date = generate_star_date
 end
