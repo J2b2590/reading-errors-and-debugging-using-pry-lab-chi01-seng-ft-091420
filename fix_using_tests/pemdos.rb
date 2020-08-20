@@ -7,9 +7,10 @@ def snake_it_up(string)
     # binding.pry
 
     10 * "s" + string
+
+  else
     binding.pry
     puts "hi"
-  else
     string
   end
 end
