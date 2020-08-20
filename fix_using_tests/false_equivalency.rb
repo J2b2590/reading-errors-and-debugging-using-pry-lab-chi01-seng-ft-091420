@@ -16,11 +16,11 @@ def selection(num)
   if num = 1
      "YUM YUM MUNCH MUNCH MUNCH"
   # binding.pry
-elsif num = 1  
+elsif num = 1
      "HAM HAM HAM IN MY TUMMY"
   end
-  # binding.pry
-  # puts "hello"
+  binding.pry
+  puts "hello"
 end
 
 def runner
