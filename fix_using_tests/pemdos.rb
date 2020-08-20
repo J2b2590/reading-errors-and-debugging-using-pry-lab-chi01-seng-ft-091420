@@ -13,6 +13,7 @@ def snake_it_up(string)
 
     string
     binding.pry
+    puts "hi"
   end
 
 end
