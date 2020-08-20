@@ -12,10 +12,10 @@ def prompt_user
 end
 
 def selection(num)
-  if num = 1
+  if num = 2
      "YUM YUM MUNCH MUNCH MUNCH"
     #  binding.pry
-  elsif num = 2
+  elsif num = 1
      "HAM HAM HAM IN MY TUMMY"
   end
   binding.pry
